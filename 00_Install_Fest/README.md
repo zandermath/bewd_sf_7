@@ -42,6 +42,11 @@ application. It can be found in Applications/Utilities.
 			*	```ruby -v```
 				You should get ruby 2.1.3 or higher.
 
+9. _Install rails 
+  * run the commands below:
+    * ```gem install rails 4.1.7 ```
+
+
 ##Ubuntu Linux Users
 
 Commands that look like ```this``` should be entered into your Terminal
