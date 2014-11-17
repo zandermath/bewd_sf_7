@@ -24,10 +24,10 @@ Please reach out if you have any questions about anything or need help!
 
 __DOWNLOAD__	
 
--   Xcode                   [Xcode](https://developer.apple.com/xcode/downloads/)
+-   Xcode:                   [Xcode](https://developer.apple.com/xcode/downloads/)
 -	Text Editor: 			[Sublime Text](http://www.sublimetext.com/2)
 -	Internet Browser: 		[Google Chrome](https://www.google.com/intl/en/chrome/browser/)
--   iTerm                   [iTerm](http://iterm2.com/)
+-   iTerm:                   [iTerm](http://iterm2.com/)
 
 __SIGN UP__
 
