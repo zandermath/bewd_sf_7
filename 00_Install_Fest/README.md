@@ -44,7 +44,7 @@ application. It can be found in Applications/Utilities.
 
 9. _Install rails 
   * run the commands below:
-    * ```gem install rails 4.1.7 ```
+    * ```gem install rails 4.1.6 ```
 
 
 ##Ubuntu Linux Users
