@@ -8,7 +8,7 @@ BACK-END WEB DEVELOPMENT
 Lesson Topics most likely WILL change as the course progresses. 
 
 | Lesson #    | Category| Topic| Date|
-| ------------- |:----------------------------------|:-------------------|:-------------------|
+| ------------- |:--------------------------------------------------|:-------------------------------|:-------------------|
 | 1 | Intro & Setup |Install Fest & Class Intro | Mon. 11/7/14| 
 | 2 | Intro & Setup | Development Work Flow | Wed. 11/19/14| 
 | 3 | Ruby | Data Types, Variables & Conditionals | Mon. 11/24/14|
