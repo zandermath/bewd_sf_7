@@ -19,9 +19,9 @@ Lesson Topics most likely WILL change as the course progresses.
 | 8 | Framework Intro | MVC Overview Continued| Mon. 12/15/14|
 | 9 | Under The Hood|Controller & Routes| Mon. 12/17/14|
 | - | Break| Winter Break | 12/18/15 - 1/4/15|
-| 10 | Under The Hood | Controller & Routes| Mon. 1/5/15|
-| 11 | Under The Hood | Views, Forms, Helpers| Wed. 1/7/15|
-| 12 | Under The Hood | Associations & 'Really Grey Areas'| Mon. 1/12/15|
+| 10 | Under The Hood| Controller & Routes| Mon. 1/5/15|
+| 11 | Under The Hood| Views, Forms, Helpers| Wed. 1/7/15|
+| 12 | Under The Hood| Associations & 'Really Grey Areas'| Mon. 1/12/15|
 | 13 | Essentials| Essentials: Front End Integration with Bootstrap & Simple Form| Wed. 1/14/15|
 | 14 | Essentials| Essentials: Authentication Integration| Wed. 1/21/15|
 | 15 | Essentials| Essentials: 3rd Party API Integration | Mon. 1/26/15|
