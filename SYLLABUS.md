@@ -7,7 +7,7 @@ BACK-END WEB DEVELOPMENT
 ###Syllabus
 Lesson Topics most likely WILL change as the course progresses. 
 
-| Lesson #    | Category| Topic| Date|
+| Lesson  | Category| Topic| Date|
 | ------------- |:--------------------------------------------------|:-------------------------------|:-------------------|
 | 1 | Setup |Install Fest & Class Intro | Mon. 11/7/14| 
 | 2 | Setup | Development Work Flow | Wed. 11/19/14| 
