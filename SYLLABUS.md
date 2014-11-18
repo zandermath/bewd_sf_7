@@ -28,7 +28,7 @@ Lesson Topics most likely WILL change as the course progresses.
 | 16 | Elective| Final Project Lab| Mon. 1/28/15|
 | 17 | Elective| Messaging with Twilio & MailGun (or postmark)| Wed. 2/2/15|
 | 18 | Elective| Uploading Images (with S3, carrierwave and fog)| Wed 2/4/15|
-| 19| Elective| Deployment & 1-on-1 time| Mon. 2/9/15|
+| 19| Elective| Heroku Deployment| Mon. 2/9/15|
 | 20|  | Class Presentations !!!!| Mon. 2/11/15|
 
 
