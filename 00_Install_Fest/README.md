@@ -42,7 +42,13 @@ application. It can be found in Applications/Utilities.
 			*	```ruby -v```
 				You should get ruby 2.1.3 or higher.
 
-9. _Install rails 
+
+9. _Install bundler
+  * run the commands below:
+    * ```gem install bundler ```
+
+
+10. _Install rails 
   * run the commands below:
     * ```gem install rails 4.1.6 ```
 
