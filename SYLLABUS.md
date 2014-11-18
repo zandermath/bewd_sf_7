@@ -15,20 +15,20 @@ Lesson Topics most likely WILL change as the course progresses.
 | 4 | Ruby | Loops & Collections | Mon. 12/1/14|
 | 5 | Ruby | OOP Intro: Methods, Classes & Objects| Wed. 12/3/14|
 | 6 | Ruby | OOP Continued: Methods, Classes & Sharing Behavior| Mon. 12/8/14|
-| 7 | Rails - Intro| Framework Intro: MVC Overview | Wed. 12/10/14|
-| 8 | Rails - Intro | Framework Intro: MVC Overview Continued| Mon. 12/15/14|
-| 9 | Rails - UTH| Under The Hood:  Controller & Routes| Mon. 12/17/14|
+| 7 | Intro| Framework Intro: MVC Overview | Wed. 12/10/14|
+| 8 | Intro | Framework Intro: MVC Overview Continued| Mon. 12/15/14|
+| 9 | Under The Hood|Controller & Routes| Mon. 12/17/14|
 | - | Break| Winter Break | 12/18/15 - 1/4/15|
-| 10 | Rails - UTH| Under The Hood:  Controller & Routes| Mon. 1/5/15|
-| 11 | Rails - UTH| Under The Hood:  Views, Forms, Helpers| Wed. 1/7/15|
-| 12 | Rails - UTH| Under The Hood:  Associations & 'Really Grey Areas'| Mon. 1/12/15|
-| 13 | Rails - Essentials| Essentials: Front End Integration with Bootstrap & Simple Form| Wed. 1/14/15|
-| 14 | Rails - Essentials| Essentials: Authentication Integration| Wed. 1/21/15|
-| 15 | Rails - Essentials| Essentials: 3rd Party API Integration | Mon. 1/26/15|
-| 16 | Rails - PL & E| Project Lab & Elective: Project Design | Mon. 1/28/15|
-| 17 | Rails - PL & E| Project Lab & Elective: Messaging with Twilio & MailGun (or postmark)| Wed. 2/2/15|
-| 18 | Rails - PL & E| Project Lab & Elective: Uploading Images (with S3, carrierwave and fog)| Wed 2/4/15|
-| 19| Rails - PL & E| Project Lab & Elective: Deployment & 1-on-1 time| Mon. 2/9/15|
+| 10 | Under The Hood|Controller & Routes| Mon. 1/5/15|
+| 11 | Under The Hood| Views, Forms, Helpers| Wed. 1/7/15|
+| 12 |Under The Hood|Associations & 'Really Grey Areas'| Mon. 1/12/15|
+| 13 | Essentials| Essentials: Front End Integration with Bootstrap & Simple Form| Wed. 1/14/15|
+| 14 | Essentials| Essentials: Authentication Integration| Wed. 1/21/15|
+| 15 | Essentials| Essentials: 3rd Party API Integration | Mon. 1/26/15|
+| 16 | Elective| Final Project Lab| Mon. 1/28/15|
+| 17 | Elective| Messaging with Twilio & MailGun (or postmark)| Wed. 2/2/15|
+| 18 | Elective|Uploading Images (with S3, carrierwave and fog)| Wed 2/4/15|
+| 19| Elective| Deployment & 1-on-1 time| Mon. 2/9/15|
 | 20|  | Class Presentations !!!!| Mon. 2/11/15|
 
 
