@@ -22,12 +22,12 @@ Lesson Topics most likely WILL change as the course progresses.
 | 10 | Under The Hood| Controller & Routes| Mon. 1/5/15|
 | 11 | Under The Hood| Views, Forms, Helpers| Wed. 1/7/15|
 | 12 | Under The Hood| Associations & 'Really Grey Areas'| Mon. 1/12/15|
-| 13 | Essentials| Essentials: Front End Integration with Bootstrap & Simple Form| Wed. 1/14/15|
-| 14 | Essentials| Essentials: Authentication Integration| Wed. 1/21/15|
-| 15 | Essentials| Essentials: 3rd Party API Integration | Mon. 1/26/15|
+| 13 | Essentials| Front End Integration with Bootstrap & Simple Form| Wed. 1/14/15|
+| 14 | Essentials| Authentication Integration| Wed. 1/21/15|
+| 15 | Essentials| 3rd Party API Integration | Mon. 1/26/15|
 | 16 | Elective| Final Project Lab| Mon. 1/28/15|
 | 17 | Elective| Messaging with Twilio & MailGun (or postmark)| Wed. 2/2/15|
-| 18 | Elective| Uploading Images (with S3, carrierwave and fog)| Wed 2/4/15|
+| 18 | Elective| Uploading Images (with S3, carrierwave and fog)| Wed. 2/4/15|
 | 19| Elective| Heroku Deployment| Mon. 2/9/15|
 | 20|  | Class Presentations !!!!| Mon. 2/11/15|
 
