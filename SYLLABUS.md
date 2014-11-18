@@ -8,7 +8,7 @@ BACK-END WEB DEVELOPMENT
 Lesson Topics most likely WILL change as the course progresses. 
 
 | Lesson #    | Category| Topic| Date|
-| ------------- |:-------------|:-------------------|:-------------------|
+| ------------- |:----------------------------------|:-------------------|:-------------------|
 | 1 | Intro & Setup |Install Fest & Class Intro | Mon. 11/7/14| 
 | 2 | Intro & Setup | Development Work Flow | Wed. 11/19/14| 
 | 3 | Ruby | Data Types, Variables & Conditionals | Mon. 11/24/14|
@@ -29,7 +29,7 @@ Lesson Topics most likely WILL change as the course progresses.
 | 17 | Rails - PL & E| Project Lab & Elective: Messaging with Twilio & MailGun (or postmark)| Wed. 2/2/15|
 | 18 | Rails - PL & E| Project Lab & Elective: Uploading Images (with S3, carrierwave and fog)| Wed 2/4/15|
 | 19| Rails - PL & E| Project Lab & Elective: Deployment & 1-on-1 time| Mon. 2/9/15|
-| 20| ****  | Class Presentations !!!!| Mon. 2/11/15|
+| 20|  | Class Presentations !!!!| Mon. 2/11/15|
 
 
 
