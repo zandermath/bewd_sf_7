@@ -40,7 +40,7 @@ application. It can be found in Applications/Utilities.
 		* 	For Ruby
 
 			*	```ruby -v```
-				You should get ruby 2.1.3 or higher.
+				You should get ruby 2.1.0 or higher.
 
 
 9. _Install bundler
@@ -85,7 +85,7 @@ application.
 		* 	For Ruby
 
 			*	```ruby -v```
-				You should get ruby 2.1.3  or higher.
+				You should get ruby 2.1.0  or higher.
 
 ##Windows Users
 
