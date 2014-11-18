@@ -43,16 +43,16 @@ application. It can be found in Applications/Utilities.
 				You should get ruby 2.1.0 or higher.
 
 
-9. _Install bundler
+9. __Install bundler
   * run the commands below:
     * ```gem install bundler ```
 
 
-10. _Install rails 
+10. __Install rails 
   * run the commands below:
     * ```gem install rails 4.1.8 ```
 
-11. _Sublime Link (may work for some)
+11. __Sublime Link for Command Line Functionality (works for Sublime 3)
     * ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
 
 
