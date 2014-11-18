@@ -50,7 +50,10 @@ application. It can be found in Applications/Utilities.
 
 10. _Install rails 
   * run the commands below:
-    * ```gem install rails 4.1.6 ```
+    * ```gem install rails 4.1.8 ```
+
+11. _Sublime Link (may work for some)
+    * ```sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl ```
 
 
 ##Ubuntu Linux Users
