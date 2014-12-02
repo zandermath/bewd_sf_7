@@ -30,7 +30,7 @@
 
 
 
-#Version 4 - Use string interpolation and escape characters, polish the output.
+#Version 4 - Use string interpolation polish the output.
 ###########
 ###########
 
