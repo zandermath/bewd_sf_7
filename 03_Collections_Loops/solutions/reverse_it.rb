@@ -22,4 +22,4 @@ end
 puts "Please provide a word \n"
 word = gets.chomp
 puts my_reverse(word)
-#puts is_palindrome?(word)
+puts is_palindrome?(word)
