@@ -16,9 +16,9 @@
 | ------------- |:-------------|:-------------------|:-------------------|
 | 30 min | Objects & Classes | Creating Objects & Students |
 
-| 60 min| Objects & Classes | Code Along: Rise of the Robots 
+| 90 min| Objects & Classes | Code Along: Rise of the Robots 
 
-| 90 min | Lab Time | Apartment Objects| Complete and review answers to Apartment objects and start Secret Number. There will be additional lab time for students to complete Secret Number next lesson. Alternatively you can assign for homework, due next class.|
+| 60 min | Lab Time | Apartment Objects| Complete and review answers to Apartment objects and start Secret Number. There will be additional lab time for students to complete Secret Number next lesson. Alternatively you can assign for homework, due next class.|
 
 
 
