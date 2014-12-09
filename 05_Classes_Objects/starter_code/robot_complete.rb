@@ -38,7 +38,7 @@ class Robot
 end
  
 def self.random_robot_maker
-  names = ["Arelis", "Kisha","Jane", "Donna", "Atiya", "Celeste", "Raissa", "Erik", "Mark", "Ramon"]
+  names = ["Kisha","Bryan", "Steve", "Donna", "Kelly" "Celeste", "Raissa", "Erik", "Mark", "Ramon"]
   types = ["Super Android", "Android"]
   origins =  ["Venus", "Mars"]
   
