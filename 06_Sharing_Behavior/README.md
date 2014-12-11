@@ -6,9 +6,8 @@
 ###Learning Objectives
 
 
-*	Create classes that use inheritance to share behavior.
-*	Define modules in Ruby program.
-*	Define how modules and mixins extend class behavior.
+* Review the Anatomy and key elements of a class	
+* Create classes that use inheritance to share behavior.
 
 
 
@@ -18,14 +17,15 @@ Times below are an approximation
 
 | Time        | Topic| Comments |
 |:-------------|:-------------------|:-------------------|
+| 30 min | Class & Objects | Quick Review of the Anatomy of a class|
 | 60 min | Inheritance | Learn how classes and objects inherit behavior  | 
-| 30 min | Modules Mixins | Learn how behavior is shared using modules and mixins. |
 | 120 min | Lab Time | This is time to review and practice your ruby programming skills.|
 
 
 ###Homework
 
--	[Midterm](homework/midterm.rb), due lesson 8.
+-	Book: Read Chapter 1 thru 11
+-   Review and Complete any outstanding homework by Monday
 
 
 
