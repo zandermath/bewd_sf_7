@@ -18,8 +18,9 @@ Times below are an approximation
 | Time        | Topic| Comments |
 |:-------------|:-------------------|:-------------------|
 | 30 min | Class & Objects | Quick Review of the Anatomy of a class|
+| 30 min | Class & Objects | Thermostat Exercise |
 | 60 min | Inheritance | Learn how classes and objects inherit behavior  | 
-| 120 min | Lab Time | This is time to review and practice your ruby programming skills.|
+| 90 min | Lab Time | This is time to review and practice your ruby programming skills.|
 
 
 ###Homework
