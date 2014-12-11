@@ -1,7 +1,3 @@
-
-#Sharing Behavior and Variables
-#TIME: 20 min
-
 # Create an employee class.
 class Employee
   attr_accessor :first_name, :last_name, :phone

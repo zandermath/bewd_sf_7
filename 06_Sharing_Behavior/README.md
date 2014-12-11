@@ -27,6 +27,9 @@ Times below are an approximation
 
 -	Book: Read Chapter 1 thru 11
 -   Review and Complete any outstanding homework by Monday
+       - calculator, teddit_basic, teddit_api, 
+       - 99_bottle_of_beer, apartment, secret_number
+
 
 
 

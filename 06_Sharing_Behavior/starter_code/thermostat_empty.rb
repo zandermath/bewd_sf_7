@@ -3,26 +3,40 @@ require 'pry-byebug'
 
 class Thermostat
 
-  #Add getter_setter method with attribute temperature here 
+  attr_accessor :temperature 
 
   #instance factory!!!
   def initialize(temperature)
+    @temperature = temperature 
   end
 
   #instance method 
   def get_desired_temperature(target_temp)
+    if temperature > target_temp
+      turn_off_heater(temperature)
+    elsif temperature < target_temp
+      turn_on_heater(temperature)
+    else
+      puts "Just Right!"
+    end
   end
   ####
 
   #class method  
   def self.detect_temperature(all_temps, target_temp)
+    all_temps.each do |temp|
+      reading = Thermostat.new(temp)
+      reading.get_desired_temperature(target_temp)
+    end
   end
 
  private 
   def turn_on_heater(temperature)
+    puts "Too Cold"
   end
 
   def turn_off_heater(temperature)
+    puts "Too Hot"
   end
 
 end
@@ -39,3 +53,11 @@ target_temp = 75
 
 #class method called to get this party started!!!
 Thermostat.detect_temperature(all_temps, target_temp)
+
+
+
+
+
+
+
+
