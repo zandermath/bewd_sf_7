@@ -1,5 +1,10 @@
 Rails.application.routes.draw do
 
+  resources :arts
+  resources :artists 
+  resources :galleries #create all restful routes 
+
+
   match 'home', to: "static_pages#home", via: "get", as: "home"
   match 'about', to: "static_pages#about", via: "get", as: "about"
   root 'static_pages#home'
