@@ -1,7 +1,7 @@
 ![BEWD_Logo](../assets/BEWD_Logo.png)
 
 
-##Lesson 8: ROUTES, CONTROLLERS & VIEWS
+##Lesson 9: ROUTES, CONTROLLERS & VIEWS
 
 
 ###Learning Objectives
@@ -19,10 +19,9 @@ Times below are an approximation
 
 | Time        | Topic| Comments |
 | ------------- |:-------------|:-------------------|:-------------------|
-| 60 min | Routes | Games on Rails is the only rails app for this lesson.| 
-| 30 min | Controller | |
-| 30 min | Views | |
-| 60 min | Lab Time | |
+| 60 min | Review | Intro to Games App | 
+| 30 min | Controller & Views | |
+| 90 min | Lab Time | |
 
 
 ###Homework
@@ -31,5 +30,4 @@ None
 
 ###What's Due?
 
-*	Ruby midterm due.
-*	Final project proposal due lesson 9.
+*	Final Project Proposal 
