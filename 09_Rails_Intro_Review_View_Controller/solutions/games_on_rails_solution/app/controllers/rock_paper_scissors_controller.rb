@@ -22,7 +22,7 @@ class RockPaperScissorsController < ApplicationController
     def game_result(game_throw, user_throw)
       # create a hash which maps each throw (key)
       # to the throw that it beats (value)
-      # e.g. beats["rock"] => "scissors" implies rock beats scissors
+
       beats = {
         "rock" => "scissors",
         "scissor" => "paper",
