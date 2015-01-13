@@ -1,7 +1,19 @@
-#Music App - Phase 1 
+#Homework: The Incredible Music App - Phase 1 
 
 Build a Basic Music App - 
+
+
 * Part 1 to Part 3 are due next Monday (01/19/2015) 
+
+
+##Part 0 - Schema & UX Design 
+
+* Think about your design BEFORE you build 
+* Questions for consideration:
+  * What model(s), controller(s) and view(s) are neccessary?
+  * What attributes will be needed on each model?
+  * What associations are needed?
+  * UX Design?
 
 ##Part 1 
 Start with 2 models: Song and Artist.  
