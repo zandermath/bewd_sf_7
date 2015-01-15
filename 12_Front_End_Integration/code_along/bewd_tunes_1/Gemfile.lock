@@ -179,7 +179,7 @@ DEPENDENCIES
   binding_of_caller
   bootstrap-sass
   coffee-rails
-  font-awesome-sass
+  font-awesome-sass (~> 4.2.0)
   jbuilder
   jquery-rails
   pry

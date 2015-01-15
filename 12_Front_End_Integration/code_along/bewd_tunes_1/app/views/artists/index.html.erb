@@ -19,9 +19,9 @@ iped table-hover">
   <tr class="small">
     <td> <%= artist.name %> </td>
     <td> <%= image_tag(artist.profile_image, size:'200x200') unless artist.profile_image.nil?%> </td>
-    <td> <%= link_to "Show", artist_path(artist), :class => 'btn btn-xs btn-warning'  %> 
-    <%= link_to "Edit", edit_artist_path(artist), :class => 'btn btn-xs btn-default'%>
-    <%= link_to 'Delete', artist, method: :delete, data: {confirm: 'Are you sure?'}, :class => 'btn btn-xs btn-danger' %>
+    <td> <%= link_to "Show", artist_path(artist), :class => 'btn btn btn-warning'  %> 
+    <%= link_to "Edit", edit_artist_path(artist), :class => 'btn btn btn-default'%>
+    <%= link_to 'Delete', artist, method: :delete, data: {confirm: 'Are you sure?'}, :class => 'btn btn btn-danger' %>
     </td>
   </tr>
 

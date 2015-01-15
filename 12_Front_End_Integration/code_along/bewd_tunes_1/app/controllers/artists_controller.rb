@@ -18,6 +18,13 @@ class ArtistsController < ApplicationController
   end
 
   def edit
+    @artist = get_artist
+  end
+
+  def update
+    @artist = get_artist
+    @artist.update(artist_params)
+    redirect_to artist_path(@artist)
   end
 
   def destroy

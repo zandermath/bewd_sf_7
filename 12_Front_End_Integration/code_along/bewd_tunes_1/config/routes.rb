@@ -1,7 +1,7 @@
 Rails.application.routes.draw do
 
   resources :artists 
-  get 'static_pages/about'
+  get '/about', to: 'static_pages#about'
   root 'static_pages#home'
 
   # The priority is based upon order of creation: first created -> highest priority.
