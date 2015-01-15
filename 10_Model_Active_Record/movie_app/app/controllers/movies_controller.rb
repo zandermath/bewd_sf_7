@@ -12,9 +12,9 @@ class MoviesController < ApplicationController
     @movie = Movie.new
   end
 
-  def create
+  def create 
     @movie = Movie.new(movies_params)
-    @movie.save #active record_method 
+    @movie.save #active record_method
     redirect_to movie_path(@movie)
   end
 
@@ -27,12 +27,15 @@ class MoviesController < ApplicationController
 
 
   def destroy
+    @movie = get_movie
+    @movie.destroy
+    redirect_to movies_path
   end
 
 
   private
 
-  #declares what can be written & read 
+  # #declares what can be written & read 
   def movies_params
     params.require(:movie).permit(:title, :description, :year_released)
   end
