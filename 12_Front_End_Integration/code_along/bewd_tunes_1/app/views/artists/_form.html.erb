@@ -8,6 +8,8 @@
 <%= f.input :profile_image, label: false, input_html: {:class => 'form-control', placeholder: 'Artist Picture'} %> 
 <br/> 
 
+<%= f.association :record_label, input_html: {:class => 'form-control'} %> 
+
 <div style="text-align:center;">
 <%= f.submit "Submit".html_safe, :class => 'btn btn-lg btn-danger' %> 
 </div>

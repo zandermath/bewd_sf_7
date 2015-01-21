@@ -24,7 +24,7 @@ Lesson Topics WILL change as the course progresses.
 | 11 | Essentials| Model: Schema Design & Associations  | Mon. 1/12/15|
 | 12 | Essentials| Front End Integration: Forms & Views. Intro to Bootstrap & Simple Form| Wed. 1/14/15|
 | -  | -| No class. School Closed               | Wed. 1/19/15|
-| 13 | Essentials| Model: Active Record Associations & Validations | Wed. 1/21/15|
+| 13 | Essentials| Model: Active Record Associations & Validations Continued| Wed. 1/21/15|
 | 14 | Essentials| Authentication with Devise | Final Project Kickoff: Design | Mon. 1/26/15|
 | 15 | Elective| Intro API Integration | Mon. 1/28/15|
 | 16 | Elective| Project Lab Time & Elective Subject | | Wed. 2/2/15|
