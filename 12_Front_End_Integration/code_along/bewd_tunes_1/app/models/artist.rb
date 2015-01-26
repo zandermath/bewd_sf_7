@@ -12,4 +12,7 @@
 
 class Artist < ActiveRecord::Base
   belongs_to :record_label
+  has_many :tracks
+  validates_presence_of :record_label, :name
+  validates_uniqueness_of :name, {case_sensitive: false}
 end

@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
 
+  resources :tracks
   resources :record_labels
   resources :artists 
   get '/about', to: 'static_pages#about'
