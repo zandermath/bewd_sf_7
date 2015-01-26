@@ -25,28 +25,9 @@ Lesson Topics WILL change as the course progresses.
 | 12 | Essentials| Front End Integration: Forms & Views. Intro to Bootstrap & Simple Form| Wed. 1/14/15|
 | -  | -| No class. School Closed               | Wed. 1/19/15|
 | 13 | Essentials| Model: Active Record Associations & Validations Continued| Wed. 1/21/15|
-| 14 | Essentials| Final Project Kickoff: Design & Buld |  Mon. 1/26/15|
+| 14 | Essentials| Final Project Kickoff: Schema Design & Basic UX Interaction |  Mon. 1/26/15|
 | 15 | Elective| Authentication with Devise & Intro API Integration | Wed. 1/28/15|
 | 16 | Elective| Project Lab Time & Elective Subject | | Mon. 2/2/15|
 | 17 | Elective| Project Lab Time & Elective Subject | Wed. 2/4/15|
 | 18 |Project Lab | Project Lab, Heroku Deployment & Elective Subject| Mon. 2/9/15|
 | 29| Project Lab | Final Project Presentations !!!!| Mon. 2/11/15|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
