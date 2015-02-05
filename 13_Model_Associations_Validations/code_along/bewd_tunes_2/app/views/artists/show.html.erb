@@ -1,0 +1,27 @@
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-6">
+<h1><%=@artist.name %> </h1>
+ <%= image_tag(@artist.profile_image,:class => 'img-thumbnail img-rounded img-responsive') unless @artist.profile_image.nil?%>
+</div
+
+<div class="col-md-6">
+<h2> Tracks </h2>
+
+<div class="table-responsive">
+<table class="table table-str
+iped table-hover">
+
+<% @artist_tracks.each do |track| %>
+  <tr class="small">
+  <td> <h4> <%= track.title %> </h4></td>
+  <td> <%= link_to "Listen", track.track_link, :target => "blank", :class => 'btn btn-danger' %> 
+  </tr>
+<%end %>
+
+
+
+</table>
+</div>
+
+</div>
